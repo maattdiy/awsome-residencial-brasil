@@ -1,0 +1,35 @@
+# Resources
+# https://github.com/squidfunk/mkdocs-material/blob/master/docs/getting-started.md
+
+# Project information
+site_name: Awsome Residencial Brasil
+
+# Pages
+nav:
+    - Index: index.md
+
+# Theming
+theme: 
+  name: 'material'
+  logo:
+    icon: ''
+  favicon: 'img/favicon.ico'
+  palette:
+    primary: 'black'
+  language: 'pt'
+  feature:
+    tabs: false
+
+# Extra tools
+plugins:
+    - search
+
+# Extra features
+markdown_extensions:
+    - smarty
+    - pymdownx.emoji
+    - admonition
+    - codehilite:
+        guess_lang: false
+    - toc:
+        permalink: true
