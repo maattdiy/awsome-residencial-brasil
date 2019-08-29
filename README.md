@@ -48,5 +48,5 @@ Lista com indexação/curadoria de informações e conteúdos trocados, principa
 Essa lista é open source e está aberta para quem quiser contribuir.
 
 ### Aviso legal
-Todos os produtos, logos e marcas são de proprieade de seus respectivos proprietários. Todas as emrpesas, produtos e serviços usados nessa lista são somente a título de identificação.
-O uso desses nomes, logos, marcas registrada e empresas não implica em endossamento.
+Todos os produtos, logos e marcas são de propriedade de seus respectivos proprietários. Todas as empresas, produtos e serviços usados nessa lista são somente a título de identificação.
+O uso desses nomes, logos, marcas registrada e empresas não implicam em endossamento.
