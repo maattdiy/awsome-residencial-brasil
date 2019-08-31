@@ -8,9 +8,10 @@ Lista com indexação/curadoria de informações e conteúdos trocados, principa
 
 ## Agenda
 * 02/09+ → Vistoria Torre 1
-* 12/09 18:30 → Assembleia na SEACA
+* 12/09 18:30 → Assembleia na SEACA (**Somente para Torre 1**) 🚨
 
 ## Materiais
+* Fotos → [Fotos diversas do grupo](https://www.dropbox.com/sh/piam05qhzyphlx8/AAChHFkgGvO6rR6SuORN_e1Va?dl=0) 🆕
 * Drone → [Vídeo Mazin](https://www.youtube.com/watch?v=tSmTw-OEnAo) 🆕
 * Folders → [Apresentação completa](docs/Apresentação.pdf) • [Apresentação uma página](https://raw.githubusercontent.com/maattdiy/awsome-residencial-brasil/master/docs/Apresenta%C3%A7%C3%A3o2.jpg)  
 * Documentos → [Memorial descritivo](docs/Memorial.pdf)  
@@ -20,16 +21,13 @@ Lista com indexação/curadoria de informações e conteúdos trocados, principa
   * Final 2, 3, 6 ,7 → [Móveis](docs/plantas/Final2-3-6-7.jpg) • [Elétrica](docs/plantas/EletricoFinal2.pdf) • [Hidráulica](docs/plantas/HidroFinal6.pdf)
   * Final 4, 5 → [Móveis](docs/plantas/Final4-5.jpg)
 
+## Ofertas de vizinhos
+* [Planilha com lista de profissionais](https://docs.google.com/spreadsheets/d/1kvCKra34ve2KbYbbHOkV6eudgm8S_BepH52bRRouh70/) • [Cadastre aqui](https://forms.gle/dt4Kd3GdSzi7vmoV8) 🆕
+
 ## Dúvidas frequentes
 * Etapas de obra → Por onde começar? [Vídeo M4](https://youtu.be/AE1892i1HXs?t=60)
 * Paredes estruturais → O que pode e o que não pode? [Vídeo M4](https://www.youtube.com/watch?v=wZYHO9kltGU) • [Vídeo Doma](https://www.youtube.com/watch?v=4gGznjAWEE4)
 * Vinílico X porcelanato X laminado → [Vídeo Gaby na Leroy](https://www.youtube.com/watch?v=ZzAYQVQXM_8)
-
-## Vizinhos Arquitetos/Designer de interiores
-* [arq.amandassilva](https://www.instagram.com/arq.amandassilva/)
-
-## Ofertas de vizinhos
-* [Promoções Magalu - Amanda](https://chat.whatsapp.com/He0kuh6YlrKIaUyXZwCtmu)
 
 ## Evento Open Day
 * [Todeschini](https://www.todeschini.com.br)
