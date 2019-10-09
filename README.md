@@ -8,7 +8,9 @@ Lista com indexação/curadoria de informações e conteúdos trocados, principa
 
 ## Agenda
 * 03/09+ → Vistoria Torre 1
-* 12/09 18:30 → Assembleia na SEACA (**Somente para Torre 1**) 🚨
+* 12/09 18:30 → Assembleia na SEACA (**Somente para Torre 1**)
+* 11/10 19:00 → Assembleia na Casa dos Sindicos - Rua Brasil, 296 (**Somente para Torre 1**) 🚨
+* 16/10 17:00 as 20:00 → Entraga das chaves para a Torre 1, no Salão de festas 🎉
 
 ## Ofertas de vizinhos
 * [Planilha com lista de profissionais](https://docs.google.com/spreadsheets/d/1kvCKra34ve2KbYbbHOkV6eudgm8S_BepH52bRRouh70/) 🆕 • [Cadastre aqui](https://forms.gle/dt4Kd3GdSzi7vmoV8)
