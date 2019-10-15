@@ -1,6 +1,6 @@
 # Awsome Villaggio Brasil
 
-![](https://img.shields.io/badge/status-vistoria%20torre%201%20🚀-orange)
+![](https://img.shields.io/badge/status-entrega%20torre%201%20🚀-orange)
 ![](https://img.shields.io/github/last-commit/maattdiy/awsome-residencial-brasil.svg?style=flat)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -9,14 +9,14 @@ Lista com indexação/curadoria de informações e conteúdos trocados, principa
 ## Agenda
 * 03/09+ → Vistoria Torre 1
 * 12/09 18:30 → Assembleia na SEACA (**Somente para Torre 1**)
-* 11/10 19:00 → Assembleia na Casa dos Sindicos - Rua Brasil, 296 (**Somente para Torre 1**) 🚨
+* 11/10 19:00 → Assembleia na Casa dos Sindicos - Rua Brasil, 296 (**Somente para Torre 1**)
 * 16/10 17:00 as 20:00 → Entraga das chaves para a Torre 1, no Salão de festas 🎉🆕
-
-## Eventos para se inspirar 🆕
-* [Morar Mais Poa](https://www.facebook.com/morarmaispoa/) → Venham conhecer a Morar Mais e seus 37 ambientes cheios de criatividade, sustentabilidade, a Mostra de Arquitetura feita pra você.
 
 ## Ofertas de vizinhos
 * [Planilha com lista de profissionais](https://docs.google.com/spreadsheets/d/1kvCKra34ve2KbYbbHOkV6eudgm8S_BepH52bRRouh70/) 🆕 • [Cadastre aqui](https://forms.gle/dt4Kd3GdSzi7vmoV8) 📝
+
+## Eventos para se inspirar
+* [Morar Mais Poa](https://www.facebook.com/morarmaispoa/) 🆕 Até 10/11 → Venham conhecer a Morar Mais e seus 37 ambientes cheios de criatividade, sustentabilidade, a Mostra de Arquitetura feita pra você.
 
 ## Materiais
 * Fotos → [Fotos diversas do grupo](https://www.dropbox.com/sh/piam05qhzyphlx8/AAChHFkgGvO6rR6SuORN_e1Va?dl=0) 🆕
